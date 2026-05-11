@@ -1,2 +1,11 @@
 #include <iostream>
+#include <vector>
 using namespace std;
+
+class dokter;
+class paisen
+{
+public:
+    string nama;
+    vector<dokter *> daftar_dokter;
+}

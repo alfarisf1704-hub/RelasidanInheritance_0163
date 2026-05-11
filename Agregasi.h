@@ -1,3 +1,4 @@
+//-anak
 #ifndef ANAK_H
 #define ANAK_H
 
@@ -15,3 +16,14 @@ public:
     }
 };
 #endif
+
+//-ibu
+#ifndef IBU_H
+#define IBU_H
+#include <vector>
+
+class ibu
+{
+public:
+    string nama;
+}

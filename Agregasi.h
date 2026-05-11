@@ -59,3 +59,8 @@ void ibu::cetakAnak()
     cout << endl;
 }
 #endif
+
+//-flie main dari agregasi
+
+#include <iostream>
+using namespace std;
